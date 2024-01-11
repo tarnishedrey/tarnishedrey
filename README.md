@@ -9,6 +9,7 @@ a lil bit crazy i think.
   <li>Based in Indonesia</li>
   <li>learn android dev</li>
   <li>Never known give up</li>
+  <li>Fervent devotee of the Elden Ring masterpiece</li>
 </ul>
 
 
