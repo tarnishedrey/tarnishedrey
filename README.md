@@ -2,7 +2,9 @@
 
 Hallo stranger!
 Calm, im a friendly man just..
-a lil bit crazy i think
+a lil bit crazy i think <br>
+
+For inquiries, drop a message at ✉️ example@example.com. Let's code and collaborate
 
 <ul>
   <li>Based in Indonesia</li>
