@@ -5,6 +5,9 @@ an android developer, gamer
 
  <img align="center" alt="Coding" width="400" src="malenia.gif">
 
+github streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarnishedrey)](https://git.io/streak-stats)
+
 <!--
 **tarnishedrey/tarnishedrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
