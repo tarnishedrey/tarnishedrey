@@ -3,6 +3,7 @@
 "Im Rey <br>
 an android developer, and i never known give up" <br>
 The line u saw above is Malenia referenced
+
 <img align="center" alt="Coding" width="400" src="malenia.gif"> <br>
 
 
