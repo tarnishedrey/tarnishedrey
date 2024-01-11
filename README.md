@@ -7,9 +7,6 @@ The line u saw above is Malenia referenced<br>
 see how beautiful she is<br>
 <img align="center" alt="Coding" width="400" src="malenia.gif"> <br>
 
-Ahh, friend <br>
-Why is it always error
-
 
 
 <!--
