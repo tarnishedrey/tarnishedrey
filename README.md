@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi
 
-My name is Reyhan
-an android developer, gamer
+Im Rey
+an android developer, i never known give up
 
  <img align="center" alt="Coding" width="400" src="malenia.gif">
 
