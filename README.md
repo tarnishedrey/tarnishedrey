@@ -1,4 +1,6 @@
-### Greeting
+### Greeting <br>
+
+Hallo stranger!
 <ul>
   <li>Based in Indonesia</li>
   <li>Android dev</li>
