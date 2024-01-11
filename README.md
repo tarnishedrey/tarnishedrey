@@ -1,6 +1,7 @@
 ### Greeting
 <ul>
-  <li>:house_with_garden:	Based in Indonesia</li>
+  <li>Based in Indonesia</li>
+  <li>Android dev</li>
 </ul>
 
 
