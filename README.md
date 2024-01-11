@@ -1,7 +1,7 @@
 ### Hi
 
-Im Rey <br>
-an android developer, and i never known give up <br>
+"Im Rey <br>
+an android developer, and i never known give up" <br>
 The line u saw above is Malenia referenced<br>
 
 see how beautiful she is<br>
