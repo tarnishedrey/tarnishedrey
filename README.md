@@ -2,7 +2,7 @@
 
 Hallo stranger! <br>
 Calm, im a friendly man just..
-a lil bit crazy i think <br> <br>
+a lil bit crazy i think. <br> <br>
 For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and collaborate!
 
 <ul>
