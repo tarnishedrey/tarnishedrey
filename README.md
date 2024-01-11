@@ -1,12 +1,9 @@
-### Hi
+### Greeting
+<ul>
+  <li>:house_with_garden:	Based in Indonesia</li>
+</ul>
 
-"Im Rey <br>
-an android developer, and i never known give up" <br>
-The line u saw above is Malenia referenced
 
-<img align="center" alt="Coding" width="400" src="malenia.gif"> <br>
-
-:house_with_garden:	Based in : Indonesia
 
 <!--
 **tarnishedrey/tarnishedrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
