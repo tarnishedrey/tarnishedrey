@@ -1,12 +1,13 @@
 ### Hi
 
 Im Rey <br>
-an android developer, and i never known give up
+an android developer, and i never known give up <br>
+The line u saw above is Malenia referenced<br>
 
- <img align="center" alt="Coding" width="400" src="malenia.gif">
+see how beautiful she is<br>
+<img align="center" alt="Coding" width="400" src="malenia.gif">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarnishedrey&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **tarnishedrey/tarnishedrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
