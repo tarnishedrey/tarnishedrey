@@ -1,6 +1,6 @@
 ### Greeting <br>
 
-Hallo stranger!
+Hallo stranger! <br>
 Calm, im a friendly man just..
 a lil bit crazy i think <br>
 For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and collaborate!
