@@ -2,8 +2,8 @@
 
 Hallo stranger! <br>
 Calm, im a friendly man just..
-a lil bit crazy i think. <br> <br>
-For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and collaborate!
+a lil bit crazy i think. 
+
 
 <ul>
   <li>Based in Indonesia</li>
@@ -11,6 +11,8 @@ For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and coll
   <li>Never known give up</li>
 </ul>
 
+
+For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and collaborate!
 ### Connect with me on another social media platform!
 
 
