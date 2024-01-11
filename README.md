@@ -13,7 +13,7 @@ a lil bit crazy i think.
 
 
 For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and collaborate!
-### Connect with me on another social media platform!
+
 
 
 
