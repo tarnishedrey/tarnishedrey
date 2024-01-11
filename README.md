@@ -3,7 +3,7 @@
 My name is Reyhan
 an android developer, gamer
 
- <img align="right" alt="Coding" width="400" src="malenia.gif">
+ <img align="center" alt="Coding" width="400" src="malenia.gif">
 
 <!--
 **tarnishedrey/tarnishedrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
