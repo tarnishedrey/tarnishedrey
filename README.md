@@ -1,10 +1,16 @@
 ### Greeting <br>
 
 Hallo stranger!
+Calm, im a friendly man just..
+a lil bit crazy i think
+
 <ul>
   <li>Based in Indonesia</li>
-  <li>Android dev</li>
+  <li>learn android dev</li>
+  <li>Never known give up</li>
 </ul>
+
+
 
 
 
