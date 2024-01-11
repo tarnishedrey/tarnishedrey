@@ -11,7 +11,7 @@ For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and coll
   <li>Never known give up</li>
 </ul>
 
-#### Explore more discussions and connect with me on another social media platform.
+#### Explore more discussions and connect with me on another social media platform!
 <p align="left"> 
   <a target="_blank" href="https://discordapp.com/users/834308945119543306" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="30" height="30" /></a> 
   <a target="_blank" href="https://www.instagram.com/reyhnwfii/"  rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
