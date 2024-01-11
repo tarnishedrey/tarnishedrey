@@ -1,6 +1,6 @@
 ### Hi
 
-Im Rey
+Im Rey <br>
 an android developer, i never known give up
 
  <img align="center" alt="Coding" width="400" src="malenia.gif">
