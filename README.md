@@ -3,6 +3,8 @@
 My name is Reyhan
 an android developer, gamer
 
+ <img align="right" alt="Coding" width="400" src="https://giphy.com/clips/xbox-xbox-series-x-elden-ring-world-tree-L2saBHFh8uk0MWn2H6">
+
 <!--
 **tarnishedrey/tarnishedrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
