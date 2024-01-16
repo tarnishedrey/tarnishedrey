@@ -15,6 +15,8 @@ a lil bit crazy i think.
 
 For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and collaborate!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarnishedrey&theme=radical)](https://github.com/tarnishedrey)
+
 
 
 
