@@ -1,16 +1,7 @@
 ### Greeting <br>
 
 Hallo stranger! <br>
-Calm, im a friendly man just..
-a lil bit crazy i think. 
-
-
-<ul>
-  <li>Based in Indonesia</li>
-  <li>learn android dev</li>
-  <li>Never known give up</li>
-  <li>Fervent devotee of the Elden Ring masterpiece</li>
-</ul>
+Calm down, i came to help you <br>
 
 
 For inquiries, drop a message at ✉️ reyyasgod@gmail.com. Let's code and collaborate!
